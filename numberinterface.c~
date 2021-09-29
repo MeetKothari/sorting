@@ -1,0 +1,5 @@
+#include <stdio.h>
+#include "numberinterface.h"
+
+status appendanumber( list *p_L, int n ){
+

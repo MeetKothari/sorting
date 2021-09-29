@@ -1,0 +1,6 @@
+#include "globals.h"
+#include "list.h"
+
+status appendanumber( list *p_L, int n ) ;
+
+status getnextnumber( list *p_L, int *n ) ;
